@@ -9,7 +9,7 @@ How to Sign In Pogo Account?
 
 If you’re a fan of online gaming, Pogo is one of the best places to enjoy a variety of fun games, from puzzles and card games to word challenges and more. But before you can start playing, you’ll need to sign in to your **pogo login account**. Whether you’re new to Pogo or coming back after a break, this guide will walk you through how to sign in easily and smoothly. Let’s get started! ✨
 
-.. image:: start.png
+.. image:: sign-in.png
    :alt: My Project Logo
    :width: 400px
    :align: center
